@@ -28,8 +28,20 @@ I'm Waleed Khalid, a versatile full-stack web application developer with experti
 
 ### 📊 GitHub Stats  
 
-![Waleed's GitHub Stats](https://github-readme-stats-waleedkhalid1997s-projects.vercel.app/api?username=waleedkhalid1997&show_icons=true&theme=transparent)  
-![Top Languages](https://github-readme-stats-waleedkhalid1997s-projects.vercel.app/api/top-langs/?username=waleedkhalid1997&layout=compact&theme=transparent)  
+![Waleed's GitHub Stats](https://github-readme-stats-waleedkhalid1997s-projects.vercel.app/api?username=waleedkhalid1997&show_icons=true&theme=transparent&count_private=true)  
+![Top Languages](https://github-readme-stats-waleedkhalid1997s-projects.vercel.app/api/top-langs/?username=waleedkhalid1997&layout=compact&theme=transparent&count_private=true)  
+
+---
+
+### 🏆 GitHub Achievements  
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=waleedkhalid1997&theme=gruvbox&no-frame=true&margin-w=15&count_private=true)](https://github.com/ryo-ma/github-profile-trophy)  
+
+---
+
+### 🔥 Streak Stats  
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=waleedkhalid1997&theme=transparent)](https://git.io/streak-stats)  
 
 ---
 
