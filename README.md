@@ -28,8 +28,8 @@ I'm Waleed Khalid, a versatile full-stack web application developer with experti
 
 ### 📊 GitHub Stats  
 
-![Waleed's GitHub Stats](https://github-readme-stats-waleedkhalid1997s-projects.vercel.app/api?username=waleedkhalid1997&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats-waleedkhalid1997s-projects.vercel.app/api/top-langs/?username=waleedkhalid1997&layout=compact&theme=radical)  
+![Waleed's GitHub Stats](https://github-readme-stats-waleedkhalid1997s-projects.vercel.app/api?username=waleedkhalid1997&show_icons=true&theme=transparent)  
+![Top Languages](https://github-readme-stats-waleedkhalid1997s-projects.vercel.app/api/top-langs/?username=waleedkhalid1997&layout=compact&theme=transparent)  
 
 ---
 
