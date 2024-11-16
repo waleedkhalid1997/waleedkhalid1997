@@ -35,7 +35,7 @@ I'm Waleed Khalid, a versatile full-stack web application developer with experti
 
 ### 🏆 GitHub Achievements  
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=waleedkhalid1997&theme=gruvbox&no-frame=true&margin-w=15&count_private=true)](https://github.com/ryo-ma/github-profile-trophy)  
+[![Trophy](https://github-profile-trophy.vercel.app/?username=waleedkhalid1997&theme=gruvbox&no-frame=true&count_private=true)](https://github.com/ryo-ma/github-profile-trophy)  
 
 ---
 
