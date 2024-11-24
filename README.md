@@ -44,12 +44,6 @@ I'm Waleed Khalid, a versatile full-stack web application developer with experti
 
 ---
 
-## 📊 Weekly development breakdown
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
-
 ### 🏗️ Projects  
 
 #### 🌟 [Project 1: Gear Enclave](#)
