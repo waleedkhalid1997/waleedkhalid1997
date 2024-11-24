@@ -28,7 +28,6 @@ I'm Waleed Khalid, a versatile full-stack web application developer with experti
 
 ### 📊 GitHub Stats  
 
-####  https://github-readme-stats-waleedkhalid1997s-projects.vercel.app/api?username=waleedkhalid1997&show_icons=true&theme=transparent&count_private=true&orgs=wwebsolutions&random=221
 ![Top Languages](https://github-readme-stats-waleedkhalid1997s-projects.vercel.app/api/top-langs/?username=waleedkhalid1997&layout=compact&theme=transparent&count_private=true&orgs=wwebsolutions&random=21)  
 
 ---
@@ -42,6 +41,12 @@ I'm Waleed Khalid, a versatile full-stack web application developer with experti
 ### 🔥 Streak Stats  
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=waleedkhalid1997&theme=transparent)](https://git.io/streak-stats)  
+
+---
+
+## 📊 Weekly development breakdown
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
