@@ -38,12 +38,6 @@ I'm Waleed Khalid, a versatile full-stack web application developer with experti
 
 ---
 
-### 🔥 Streak Stats  
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=waleedkhalid1997&theme=transparent)](https://git.io/streak-stats)  
-
----
-
 ### 🏗️ Projects  
 
 #### 🌟 [Project 1: Gear Enclave](#)
